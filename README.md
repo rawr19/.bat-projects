@@ -1,3 +1,1 @@
-This .bat basically clean all of your temp files in your computer
-
-Remember to always execute on admin mode to clean all the files
+Hi guys im creating this repository to basically upload my .bat projects
